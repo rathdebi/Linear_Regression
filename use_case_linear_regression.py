@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 # CREDIT STANFORD ONLINE and COURSERA
-# Happy Learning!!!
-# follow me @linkedin- https://www.linkedin.com/in/debi-prasad-rath-89331814b/
 
 # PRACTICE LAB: Welcome to Linear Regression
 # You will implement linear regression with one variable to predict profits for a restaurant franchise.
@@ -358,3 +356,6 @@ print('For population = 35,000, we predict a profit of $%.2f' % (predict1*10000)
 
 predict_2 = 7.0 * w + b
 print('For population = 70,000, we predict a profit of $%.2f' % (predict2*10000))
+
+# Happy Learning!!!
+# follow me @linkedin- https://www.linkedin.com/in/debi-prasad-rath-89331814b/
